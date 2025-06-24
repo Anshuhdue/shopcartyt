@@ -71,8 +71,7 @@ const Footer = () => {
         </div>
         <div className="py-6 border-t text-center text-sm text-gray-600">
           <div>
-            © {new Date().getFullYear()} <Logo className="text-sm" />. All
-            rights reserved.
+            © {new Date().getFullYear()} <Logo className="text-sm" />. Built by Om Gupta.
           </div>
         </div>
       </Container>
